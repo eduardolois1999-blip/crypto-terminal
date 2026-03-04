@@ -4,12 +4,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-> Add your deployment URL here after publishing to Vercel / Netlify / GitHub Pages.
-
----
-
 ## ✨ Features
 
 | Feature | Description |
@@ -169,4 +163,7 @@ Test coverage includes:
 
 ## 📄 License
 
-MIT
+MIT<img width="1919" height="675" alt="Captura de pantalla 2026-03-04 142019" src="https://github.com/user-attachments/assets/4220b0f6-6156-485f-97da-96f7339df09d" />
+<img width="1919" height="521" alt="Captura de pantalla 2026-03-04 142008" src="https://github.com/user-attachments/assets/4eb99fd5-7afb-43f0-93cb-e8f1e12ec871" />
+<img width="1919" height="510" alt="Captura de pantalla 2026-03-04 141944" src="https://github.com/user-attachments/assets/3c918d31-3679-4acb-be88-4b384ac09fc2" />
+
