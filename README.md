@@ -6,7 +6,11 @@ Dashboard de criptomonedas en tiempo real construido con HTML, CSS y JavaScript 
 
 ## 📸 Capturas de pantalla
 
-> *(Agrega aquí tus screenshots arrastrándolos al editor de GitHub)*
+<img width="1919" height="510" alt="Captura de pantalla 2026-03-04 141944" src="https://github.com/user-attachments/assets/db301e28-ed1d-4869-b967-b7391f149cb9" />
+
+<img width="1919" height="521" alt="Captura de pantalla 2026-03-04 142008" src="https://github.com/user-attachments/assets/3d021863-6742-411f-bfb6-7686ed0baf7d" />
+
+<img width="1919" height="675" alt="Captura de pantalla 2026-03-04 142019" src="https://github.com/user-attachments/assets/a664ded4-06ce-4483-8189-8937c876f748" />
 
 ---
 
