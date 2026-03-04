@@ -1,10 +1,10 @@
-# 🪙 Crypto Terminal — Dashboard Interactivo
+# Crypto Terminal — Dashboard Interactivo
 
 Dashboard de criptomonedas en tiempo real construido con HTML, CSS y JavaScript puro, usando **Chart.js** para los gráficos y la **API pública de CoinGecko** como fuente de datos.
 
 ---
 
-## 📸 Capturas de pantalla
+## Capturas de pantalla
 
 <img width="1919" height="510" alt="Captura de pantalla 2026-03-04 141944" src="https://github.com/user-attachments/assets/db301e28-ed1d-4869-b967-b7391f149cb9" />
 
@@ -14,7 +14,7 @@ Dashboard de criptomonedas en tiempo real construido con HTML, CSS y JavaScript 
 
 ---
 
-## ⚙️ Cómo configurar y ejecutar la aplicación
+## Cómo configurar y ejecutar la aplicación
 
 ### Opción 1 — Abrir directamente (sin instalar nada)
 
@@ -44,7 +44,7 @@ Luego abre [http://localhost:3000](http://localhost:3000) en tu navegador.
 
 ---
 
-## 💡 Enfoque adoptado
+## Enfoque adoptado
 
 El objetivo principal fue construir un dashboard que funcione siempre, sin importar si la API está disponible o no.
 
@@ -63,7 +63,7 @@ El objetivo principal fue construir un dashboard que funcione siempre, sin impor
 
 ---
 
-## ⚠️ Suposiciones y problemas conocidos
+## Suposiciones y problemas conocidos
 
 **Suposiciones realizadas:**
 
