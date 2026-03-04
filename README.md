@@ -40,7 +40,7 @@ Luego abre [http://localhost:3000](http://localhost:3000) en tu navegador.
 
 ### Opción 3 — Ver la demo en vivo
 
-🔗 **[Ver demo desplegada](https://TU-LINK.netlify.app)**
+🔗 **[Ver demo desplegada](https://delightful-starship-3525f3.netlify.app/)**
 
 ---
 
