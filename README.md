@@ -20,7 +20,7 @@ Dashboard de criptomonedas en tiempo real construido con HTML, CSS y JavaScript 
 
 1. Descarga o clona este repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/crypto-terminal.git
+   git clone https://github.com/eduardolois1999-blip/crypto-terminal.git
    ```
 2. Abre el archivo `index.html` en tu navegador.
 
